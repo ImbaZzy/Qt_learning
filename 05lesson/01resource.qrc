@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="doc-open">development_qt_256px_540421_easyicon.net.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
